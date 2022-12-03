@@ -140,6 +140,8 @@ const GlobalStyle = createGlobalStyle`
       @media (max-width: 480px) {
         padding: 0 25px;
       }
+
+      padding-top: 50px;
     }
   }
 
