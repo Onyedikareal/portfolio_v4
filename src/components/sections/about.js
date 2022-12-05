@@ -147,7 +147,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Onyedika, a full-stack software engineer and I enjoy building things users
+              Hello! I'm Onyedika, a full-stack software engineer that enjoys building things users
               love. My software development journey started back in 2017 after my undergraduate
               studies where I was trying to modify a web template for an ecommerce website I wanted
               to develop - it happens that modifying a web template wasn't an easy hack and really
