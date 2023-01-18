@@ -1,12 +1,11 @@
 ---
-date: '2017-05-14'
+date: '2017-11-17'
 title: 'Web developer'
 company: 'RealO Technologies'
 location: 'Lekki, Lagos'
-range: 'Mar 2018 - May 2019'
+range: 'Nov 2017 - Sep 2018'
 url: 'https://www.realotech.com/'
 ---
 
-- Developed an Udemy-like e-learning web app that provides students in exam classes with quality learning content and has gained thousands of happy users.
-- Developed an Aliexpress-like web app that made it easier for businesses to offer their products online.
-- Developed both backend APIs and Frontend for web apps.
+- Collaborated with a team of 3 in developing and successfully deploying an Udemy-like e-learning web app that provides students in Nigeria with quality learning content.
+- Coordinated a team of 4 in the development and deployment of an Aliexpress-like web app that made it easier for businesses to offer their products online - Kidsfunplug.com.

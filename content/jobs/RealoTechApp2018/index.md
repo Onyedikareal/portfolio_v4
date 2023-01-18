@@ -1,12 +1,11 @@
 ---
-date: '2018-05-14'
-title: 'Mobile app engineer'
+date: '2018-10-6'
+title: 'Junior Mobile app engineer'
 company: 'RealO Technologies'
 location: 'Lekki, Lagos'
-range: 'May 2018 - Present'
+range: 'Oct 2018 - Dec 2019'
 url: 'https://www.realotech.com/'
 ---
 
-- Develop modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, and frameworks such as Flutter, Dart, PHP, python, JavaScript, TypeScript, and python
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Contributed to mobile app UI/UX designs.
+- Collaborated with a team of junior developers in developing reusable widgets, debugging minor bug issues, testing apps, and writing reports and documentation.
